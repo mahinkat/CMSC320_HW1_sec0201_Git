@@ -9,3 +9,8 @@ Answer: It can be used in E-Commerce for exmaple, it can personalize shopping.
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging perseves history, while rebasing rewrites for a clean history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to making new friends in my classes.
+

@@ -5,3 +5,7 @@ Answer: Version control and working with peers on projects.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be used in E-Commerce for exmaple, it can personalize shopping.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging perseves history, while rebasing rewrites for a clean history.
